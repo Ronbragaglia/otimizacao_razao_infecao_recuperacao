@@ -53,8 +53,6 @@ Exemplos de Saída:
 
 A menor razão probabilidade de infecção / probabilidade de recuperação onde a doença ainda se propaga para mais de 5000 células é:
 
-Probabilidade de Infecção: 0.43
-Probabilidade de Recuperação: 0.28
-Relação (Infecção/Recuperação): 1.54
+![image](https://github.com/user-attachments/assets/9be40868-c27e-4ba5-a0e8-35e85d06bc34)
 
 
